@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sDaCoder
+- 👋 Hi, I’m Suprava Dutta
 - 👀 I’m interested in Technology, playing cricket and Football
-- 🌱 I’m currently learning Computer Science 
+- 🌱 I’m currently learning Computer Science (B.Tech from IEM)
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
