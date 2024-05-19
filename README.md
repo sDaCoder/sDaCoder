@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **C, C++, Web Development**
 
+[SUPRAVA DUTTA](https://in.linkedin.com/in/suprava-dutta-sda-e23?trk=profile-badge)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suprava-dutta-sda-e23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suprava-dutta-sda-e23" height="30" width="40" /></a>
