@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **C, C++, Web Development**
 
-[SUPRAVA DUTTA](https://in.linkedin.com/in/suprava-dutta-sda-e23?trk=profile-badge)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
