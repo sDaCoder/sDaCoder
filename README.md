@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suprava Dutta</h1>
 <h3 align="center">Web Developer (Backend), AI-ML & Blockchain enthusiast.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sdacoder&label=Profile%20views&color=0e75b6&style=flat" alt="sdacoder" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sdacoder&label=Profile%20views&color=0e75b6&style=flat" alt="sdacoder" /> </p>
 
 - 🔭 I’m currently working on [AgriSmart](https://github.com/sDaCoder/nasa-debuggers)
 
@@ -25,7 +25,24 @@
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages
+![Static Badge](https://img.shields.io/badge/c-darkblue?logo=c&logoColor=Blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/c++-blue?logo=c%2B%2B&logoColor=Blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Python-darkblue?logo=python&logoColor=yellow&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/JavaScript-gray?logo=javascript&logoColor=Blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Typescript-white?logo=typescript&logoColor=Blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Java-red?logo=java&logoColor=Blue&logoSize=auto)
+
+## Frameworks
+![Static Badge](https://img.shields.io/badge/NextJS-black?logo=nextdotjs&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/React-lightyellow?logo=vite&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/React%20Router-darkblue?logo=reactrouter&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/React%20Hook%20Form-white?logo=reacthookform&logoColor=black&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Express-black?logo=express&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Fastapi-black?logo=fastapi&logoSize=auto&link=https%3A%2F%2Ffastapi.tiangolo.com%2F)
+![Static Badge](https://img.shields.io/badge/Sqlite-blue?logo=sqlite&logoColor=Blue&logoSize=auto)
+
+
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
