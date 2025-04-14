@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sdacoder&label=Profile%20views&color=0e75b6&style=flat" alt="sdacoder" /> </p>
 
-- 🔭 I’m currently working on [AgriSmart](https://github.com/sDaCoder/nasa-debuggers)
+- 🔭 I’m currently working on [aGroww AI](https://github.com/sDaCoder/nasa-debuggers)
 
 - 🌱 I’m currently learning **React JS, Next JS, Databases**
 
@@ -39,6 +39,7 @@
 
 ## Frameworks and Libraries
 ![Next JS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Langchain](https://img.shields.io/badge/langchain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite--react-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -77,7 +78,6 @@
 ![UV](https://img.shields.io/badge/uv-%23000000.svg?style=for-the-badge&logo=uv&logoColor=#DE5FE9)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
