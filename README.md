@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suprava Dutta</h1>
-<h3 align="center">Web Developer (Backend), AI-ML & Blockchain enthusiast.</h3>
+<h3 align="center">Software Developer, AI-ML & Blockchain enthusiast.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sdacoder&label=Profile%20views&color=0e75b6&style=flat" alt="sdacoder" /> </p>
 
@@ -39,6 +39,7 @@
 
 ## Frameworks and Libraries
 ![Next JS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Langchain](https://img.shields.io/badge/langchain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite--react-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -68,6 +69,7 @@
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
 
 ## Databases
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
