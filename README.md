@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sdacoder&label=Profile%20views&color=0e75b6&style=flat" alt="sdacoder" /> </p>
 
-- 🔭 I’m currently working on [aGroww AI](https://github.com/sDaCoder/nasa-debuggers)
+- 🔭 I’m currently working on [Musix](https://github.com/sDaCoder/music-next-spring)
 
 - 🌱 I’m currently learning **React JS, Next JS, Databases**
 
@@ -39,6 +39,7 @@
 
 ## Frameworks and Libraries
 ![Next JS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/drizzle%20ORM-000000?style=for-the-badge&logo=drizzle&logoColor=#C5F74F)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Langchain](https://img.shields.io/badge/langchain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
