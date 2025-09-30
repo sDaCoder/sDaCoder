@@ -88,8 +88,17 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 <br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sdacoder&show_icons=true&locale=en&layout=compact" alt="sdacoder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sdacoder&show_icons=true&locale=en" alt="sdacoder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sdacoder&" alt="sdacoder" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sDaCoder&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sDaCoder&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sDaCoder&theme=radical&hide_border=false)<br/><br/>
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sDaCoder&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sDaCoder&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
