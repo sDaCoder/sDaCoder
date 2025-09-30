@@ -4,10 +4,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sdacoder&label=Profile%20views&color=0e75b6&style=flat" alt="sdacoder" /> </p>
 
 - 🔭 I’m currently working on [Musix](https://github.com/sDaCoder/music-next-spring)
-
-- 🌱 I’m currently learning **React JS, Next JS, Databases**
-
-- 💬 Ask me about **C, C++, Web Development**
+- 🌱 I’m currently learning **Spring Boot, Docker, Kubernetes**
+- 💬 Ask me about **Web Development, Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,6 +21,9 @@
     <a href="https://www.leetcode.com/sda_e23" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sda_e23" height="30" width="40" />
     </a>
+    <a href="https://twitter.com/sda_e23er" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sda_e23er" height="30" width="40" />
+    </a>
 </p>
 
 ## Languages
@@ -34,7 +35,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Frameworks and Libraries
@@ -76,6 +77,7 @@
 ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
 
 ## Other
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 ![UV](https://img.shields.io/badge/uv-%23000000.svg?style=for-the-badge&logo=uv&logoColor=#DE5FE9)
