@@ -60,6 +60,7 @@
 ![SQL Alchemy](https://img.shields.io/badge/SQLModel-%23150458.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 ## Hardware
+![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ## UI and Templates
