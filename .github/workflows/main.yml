@@ -3,7 +3,7 @@ name: build profile assets
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
   push:
     branches: [main]
