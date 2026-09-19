@@ -3,6 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sdacoder&label=Profile%20views&color=0e75b6&style=flat" alt="sdacoder" /> </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sDaCoder/sDaCoder/output/youtube-music-widget.svg" alt="Now playing on YouTube Music" />
+</p>
+
 - 🔭 I’m currently working on [CurioGenius](https://github.com/sDaCoder/business-development-pod), [Smart Home Server](https://github.com/sDaCoder/esp32-server)
 - 🌱 I’m currently learning **Spring Boot, Docker, Kubernetes**
 - 💬 Ask me about **Web Development, Java**
