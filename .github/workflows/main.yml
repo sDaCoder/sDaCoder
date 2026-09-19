@@ -1,0 +1,35 @@
+# main.yml
+name: build profile assets
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: generate youtube music widget
+        uses: daeun503/profile-music-widget@v1
+        with:
+          playlist_id: PLVocVnJqOkhA
+          theme: default.svg
+
+      - name: Deploy dist to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
